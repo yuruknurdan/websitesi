@@ -1,0 +1,41 @@
+html,body{
+	margin:0;
+	padding:0;
+	height:100%;
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	font-size: 15px;
+	color: #333;
+}
+#ana-cerceve {
+	margin:0 auto;
+	width:1000px;
+	height:100%;
+}
+#logo {
+	float: left;
+	padding: 5px;
+	width: 250px;
+	height: 100px;
+}
+#baslik {
+	float: left;
+	padding: 5px;
+	width: 730px;
+	height: 100px;
+	text-align: left;
+}
+#menu {
+	float: left;
+	padding: 5px;
+	width: 250px;
+	height: 300px;
+}
+.menulink{
+	padding: 5px;;
+}
+#icerik {
+	float: left;
+	padding: 5px;
+	width: 730px;
+	height: 300px;
+}
